@@ -5,6 +5,7 @@
 ## Algorithm:
 
 1.Create Welcome/Splash Screen
+
 2.Add logo at the top center
 3.Add welcome message under the logo
 4.Add a "Get Started" button at the bottom
